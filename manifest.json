@@ -1,0 +1,19 @@
+{
+    "name": "Stick-it Notes by Tharun",
+    "short_name": "Stick-it",
+    "start_url": "/index.html",
+    "scope": "."  ,
+    
+    "icons": [
+      {
+        "src": "maskable_icon.png",
+        "sizes": "600x600",
+        "type": "image/png"
+      }
+     
+    ],
+    "theme_color": "#ffd31d",
+    "background_color": "#333",
+    
+    "display": "standalone"
+  }
